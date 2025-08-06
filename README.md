@@ -40,7 +40,7 @@ This project was developed as part of an internship from 1Stop.ai to explore and
 
  # Project Link
  https://github.com/Mustafa-TAT11/serverless-todo-app
- https://github.com/Mustafa-TAT11/serverless-todo-app
+ 
 
 
 📫 Contact
