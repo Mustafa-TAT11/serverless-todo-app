@@ -10,5 +10,3 @@ This project demonstrates how to build a personal to-do list using AWS Lambda, A
 ## Folder Structure
 - frontend/: Contains the HTML interface
 - backend/: AWS Lambda functions for CRUD operations
-
-
